@@ -1,7 +1,4 @@
 #!/usr/bin/env python
-# coding: utf-8
-
-# In[11]:
 
 
 not_allowed=['A','E','I','O','U','a','e','i','o','u']
