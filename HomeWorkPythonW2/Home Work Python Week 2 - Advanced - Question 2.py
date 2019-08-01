@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 import random
 import time
 
@@ -32,10 +26,9 @@ while (answer != 'Yes'):
     
     
 print ('Bingo')
-#time.sleep(5)
 
 
-# In[ ]:
+
 
 
 
